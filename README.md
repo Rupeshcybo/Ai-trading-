@@ -1,2 +1,3 @@
-# Ai-trading-
-ai-trading-frontend
+# AI Trading Assistant – Improved Architecture
+
+Secure frontend + backend setup.
